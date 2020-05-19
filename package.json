@@ -1,0 +1,19 @@
+{
+  "name": "ninja-server",
+  "version": "0.0.1",
+  "description": "ninja-server project",
+  "main": "index.js",
+  "repository": "https://github.com/iconWave/ninja-server.git",
+  "author": "iconWave <iconwave@163.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "koa": "^2.12.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^8.0.8",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^5.9.14",
+    "uuid": "^8.0.0"
+  }
+}
